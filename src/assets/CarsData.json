@@ -1,0 +1,545 @@
+{
+  "cars": [
+    {
+      "name": "Toyota Corolla",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Honda Civic",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$590"
+    },
+    {
+      "name": "Ford Mustang",
+      "year_of_launch": 2023,
+      "capacity": 4,
+      "fuel_type": "Gasoline",
+      "mileage": "25 mpg",
+      "transmission": "Manual",
+      "price_per_month": "$700"
+    },
+    {
+      "name": "Tesla Model 3",
+      "year_of_launch": 2020,
+      "capacity": 5,
+      "fuel_type": "Electric",
+      "mileage": "250 miles per charge",
+      "transmission": "Automatic",
+      "price_per_month": "$800"
+    },
+    {
+      "name": "Nissan Altima",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "27 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Chevrolet Silverado",
+      "year_of_launch": 2021,
+      "capacity": 6,
+      "fuel_type": "Gasoline",
+      "mileage": "22 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$700"
+    },
+    {
+      "name": "Hyundai Sonata",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "42 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$650"
+    },
+    {
+      "name": "Kia Sorento",
+      "year_of_launch": 2023,
+      "capacity": 7,
+      "fuel_type": "Gasoline",
+      "mileage": "26 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$720"
+    },
+    {
+      "name": "BMW 3 Series",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$800"
+    },
+    {
+      "name": "Lexus RX",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "33 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$750"
+    },
+    {
+      "name": "Audi A4",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$820"
+    },
+    {
+      "name": "Mercedes-Benz C-Class",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$850"
+    },
+    {
+      "name": "Volkswagen Passat",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "26 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Subaru Outback",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$670"
+    },
+    {
+      "name": "Jeep Wrangler",
+      "year_of_launch": 2023,
+      "capacity": 4,
+      "fuel_type": "Gasoline",
+      "mileage": "20 mpg",
+      "transmission": "Manual",
+      "price_per_month": "$700"
+    },
+    {
+      "name": "Tesla Model Y",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Electric",
+      "mileage": "260 miles per charge",
+      "transmission": "Automatic",
+      "price_per_month": "$820"
+    },
+    {
+      "name": "GMC Sierra",
+      "year_of_launch": 2022,
+      "capacity": 6,
+      "fuel_type": "Gasoline",
+      "mileage": "22 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$720"
+    },
+    {
+      "name": "Toyota RAV4",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "41 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$670"
+    },
+    {
+      "name": "Ford Explorer",
+      "year_of_launch": 2022,
+      "capacity": 7,
+      "fuel_type": "Gasoline",
+      "mileage": "24 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$750"
+    },
+    {
+      "name": "Honda CR-V",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "35 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$680"
+    },
+    {
+      "name": "Nissan Rogue",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "27 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$640"
+    },
+    {
+      "name": "Chevrolet Equinox",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "39 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$670"
+    },
+    {
+      "name": "Hyundai Tucson",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "26 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Kia Telluride",
+      "year_of_launch": 2023,
+      "capacity": 7,
+      "fuel_type": "Gasoline",
+      "mileage": "24 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$740"
+    },
+    {
+      "name": "BMW X5",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "35 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$880"
+    },
+    {
+      "name": "Lexus ES",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$770"
+    },
+    {
+      "name": "Audi Q5",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$850"
+    },
+    {
+      "name": "Mercedes-Benz GLE",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "34 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$890"
+    },
+    {
+      "name": "Volkswagen Tiguan",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "27 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$650"
+    },
+    {
+      "name": "Subaru Crosstrek",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "35 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$680"
+    },
+    {
+      "name": "Jeep Grand Cherokee",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "26 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$730"
+    },
+    {
+      "name": "Tesla Model S",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Electric",
+      "mileage": "370 miles per charge",
+      "transmission": "Automatic",
+      "price_per_month": "$950"
+    },
+    {
+      "name": "GMC Acadia",
+      "year_of_launch": 2022,
+      "capacity": 7,
+      "fuel_type": "Gasoline",
+      "mileage": "23 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$710"
+    },
+    {
+      "name": "Toyota Highlander",
+      "year_of_launch": 2023,
+      "capacity": 7,
+      "fuel_type": "Hybrid",
+      "mileage": "36 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$780"
+    },
+    {
+      "name": "Ford Escape",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Hybrid",
+      "mileage": "41 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$690"
+    },
+    {
+      "name": "Honda Accord",
+      "year_of_launch": 2021,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "31 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$690"
+    },
+    {
+      "name": "Nissan Sentra",
+      "year_of_launch": 2023,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Chevrolet Malibu",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$630"
+    },
+
+    {
+      "name": "Toyota Corolla",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Honda Civic",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "32 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Ford Focus",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$580"
+    },
+    {
+      "name": "Nissan Sentra",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "31 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$610"
+    },
+    {
+      "name": "Chevrolet Cruze",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$590"
+    },
+    {
+      "name": "Hyundai Elantra",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Kia Forte",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$580"
+    },
+    {
+      "name": "Mazda3",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "32 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Volkswagen Jetta",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Subaru Impreza",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$590"
+    },
+    {
+      "name": "Toyota Camry",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$580"
+    },
+    {
+      "name": "Honda Accord",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "31 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$610"
+    },
+    {
+      "name": "Ford Fusion",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Nissan Altima",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "32 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Chevrolet Malibu",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$590"
+    },
+    {
+      "name": "Hyundai Sonata",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Kia Optima",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$580"
+    },
+    {
+      "name": "Mazda6",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "32 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$620"
+    },
+    {
+      "name": "Volkswagen Passat",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "30 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$600"
+    },
+    {
+      "name": "Subaru Legacy",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "29 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$590"
+    },
+    {
+      "name": "Toyota Avalon",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "28 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$580"
+    },
+    {
+      "name": "Honda Fit",
+      "year_of_launch": 2022,
+      "capacity": 5,
+      "fuel_type": "Gasoline",
+      "mileage": "31 mpg",
+      "transmission": "Automatic",
+      "price_per_month": "$610"
+    }
+  ]
+}
