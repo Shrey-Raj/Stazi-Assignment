@@ -28,7 +28,7 @@ Welcome to the Car Rentals web app README. In this document, I'll provide an ove
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `npm install`.
-3. Start the development server with `npm start`.
+3. Start the development server with `npm start` or `npm run dev`.
 4. Access the web app in your web browser at `http://localhost:3000`.
 
 ## Technologies Used
